@@ -1,4 +1,4 @@
-#IDE單步調適
+#IDE單步調適按F5
 def sum_even(n):
     result = 0
     for i in range(0, n, 2):
