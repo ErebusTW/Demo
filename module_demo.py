@@ -22,3 +22,4 @@ print(f"當前片段代碼運行所在的命名空間{__name__}")
 if __name__ == "__main__":
     n = sum_even(50)
     print("sum_even函數測試調適結果", n)
+    
